@@ -1,0 +1,202 @@
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+C:\Users\alper\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\muayene.accdb
+C:\Users\lab1\Desktop\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\muayene.accdb
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+F:\dishekimiveritabani - Kopya\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+F:\dishekimiveritabani\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+F:\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+C:\Users\lab1\Desktop\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+G:\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csprojResolveAssemblyReference.cache
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+F:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csprojResolveAssemblyReference.cache
+G:\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csprojResolveAssemblyReference.cache
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+F:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csprojResolveAssemblyReference.cache
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+G:\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.Cache
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csprojAssemblyReference.cache
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.cache
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.CoreCompileInputs.cache
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+D:\Games\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.resx
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.cs
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\Form7.Designer.cs
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveri.accdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe.config
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.exe
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\bin\Debug\dishekimiveritabani.pdb
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form1.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form2.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form3.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form4.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form5.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form6.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Form7.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.Properties.Resources.resources
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.GenerateResource.cache
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.exe
+C:\Users\Victus\Desktop\işler güçler\11.sınıf nesne tabanlı programlama\Alper Proje\dishekimiveritabani\dishekimiveritabani\obj\x86\Debug\dishekimiveritabani.pdb
